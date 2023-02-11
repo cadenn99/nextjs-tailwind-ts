@@ -37,7 +37,7 @@ function Footer() {
             </h2>
             <p>Get instant access to our growth materials</p>
           </div>
-          <div className="border-2 border-gray-500 flex p-4 rounded">
+          <div className="border-2 border-gray-500 flex p-4 rounded flex-col sm:flex-row gap-4">
             <input
               type="text"
               className="bg-transparent flex-grow outline-none"
