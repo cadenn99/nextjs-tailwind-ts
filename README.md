@@ -1,4 +1,4 @@
-# nextjs-tailwind-ts
+# Webdev 1 - Demand Curve
 Tailwindcss, NextJS, Typescript testbuild deployed to Vercel
 
 
